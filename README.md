@@ -4,4 +4,4 @@ Arch Dot files
 
 
 # credit - 
-Based on wthrajat [Dot-Files](https://github.com/wthrajat/dotfiles-arch)
+Based on [wthrajat](https://github.com/wthrajat) [Dot-Files](https://github.com/wthrajat/dotfiles-arch)
