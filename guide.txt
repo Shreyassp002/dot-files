@@ -1,5 +1,5 @@
 For Polybar----------->
-Install polybar-themes from setups folder or (https://github.com/adi1090x/polybar-themes)
+jdisjdInstall polybar-themes from setups folder or (https://github.com/adi1090x/polybar-themes)
 then apply colorblocks theme from it
 now copy polybar folder from dot files and done
 
