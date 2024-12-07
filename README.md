@@ -5,3 +5,5 @@ Arch Dot files
 
 # credit - 
 Based on [wthrajat](https://github.com/wthrajat) [Dot-Files](https://github.com/wthrajat/dotfiles-arch)
+
+Very good files
